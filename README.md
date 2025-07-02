@@ -5,7 +5,7 @@ A modern, interactive portfolio web application built for showcasing Ahmed Maher
 ---
 
 ## 🌐 Demo (Live Preview)
-**Live Site:** []()
+**Live Site:** [https://ahmed-maher77.github.io/MyResume___My-Personal-Portfolio-v3/](https://ahmed-maher77.github.io/MyResume___My-Personal-Portfolio-v3/)
 
 ---
 
@@ -64,7 +64,7 @@ A modern, interactive portfolio web application built for showcasing Ahmed Maher
 
 ## 👀 Website Preview
 
-<a href="" title="demo">
+<a href="https://ahmed-maher77.github.io/MyResume___My-Personal-Portfolio-v3/" title="demo">
   <img src="uploaded-img-on-github-readme" alt="website preview" width="400">
 </a>
 
